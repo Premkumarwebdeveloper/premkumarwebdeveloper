@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Prem Kumar
- Software Engineer | Computer Science Graduate
+ @Software-Engineer | Computer Science Graduate
 
 <img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 

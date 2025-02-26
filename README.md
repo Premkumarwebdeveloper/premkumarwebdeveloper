@@ -4,7 +4,7 @@
 <img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
 - 🔭 Here's my [portfolio](https://premkumar-s.web.app/)  
-- 🌱 Currently learning <img height="10" width="10"  src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4"/>
+- 🌱 Currently learning <img height="20" width="20"  src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4"/>
 - 🚀 Passionate about Web Development, Microservices & Scalable Architectures  
 - ⚡ Fun fact: I love open-source contributions & hackathons  
 

@@ -21,10 +21,9 @@
 ### 🛠 Tech Stack  
 <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
 <img height="50" src="https://img.icons8.com/color/48/000000/tailwind_css.png"/>
-<img height="50" src="https://w7.pngwing.com/pngs/690/910/png-transparent-redis-redis-icon-thumbnail.png"/>
 
 ---
 
 ### 🔧 Tools & IDEs  
-<img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/git.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/github.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/figma.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/netlify.png"/>
+<img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/git.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/github.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/figma.png"/> 
 

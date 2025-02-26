@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Prem Kumar
  Software Engineer | Computer Science Graduate
 
-<img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif">
+<img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
 - 🔭 Here's my [portfolio](https://premkumar-s.web.app/)  
 - 🌱 Currently learning AI integration & Blockchain development  

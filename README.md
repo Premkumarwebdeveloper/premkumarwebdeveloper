@@ -21,7 +21,7 @@
 ### 🛠 Tech Stack  
 <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
 <img height="50" src="https://img.icons8.com/color/48/000000/tailwind_css.png"/>
-<img height="50" src="https://banner2.cleanpng.com/20180907/ska/kisspng-redis-memcached-database-caching-key-value-databas-redis-logo-svg-vector-amp-png-transparent-vect-1713942841776.webp"/>
+<img height="50" src="https://w7.pngwing.com/pngs/690/910/png-transparent-redis-redis-icon-thumbnail.png"/>
 
 ---
 

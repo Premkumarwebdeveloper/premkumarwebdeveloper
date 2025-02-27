@@ -9,8 +9,8 @@
 - 🚀 Passionate about Web Development, Microservices & Scalable Architectures
 
 - 🔭 Check out my [Portfolio](https://premkumar-s.web.app/)  
-- 🌱 Currently learning [Remix] [<img src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" height="24">](https://remix.run/)
-- 🎓 Engineering at [Kalasalingam Academy of Research and Education ] [<img src="https://upload.wikimedia.org/wikipedia/en/5/53/Kalasalingam_Academy_of_Research_and_Education_logo.png" height="24">](https://www.kalasalingam.ac.in/)
+- 🌱 Currently learning [Remix][<img src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" height="24">](https://remix.run/)
+- 🎓 Engineering at [Kalasalingam Academy of Research and Education ][<img src="https://upload.wikimedia.org/wikipedia/en/5/53/Kalasalingam_Academy_of_Research_and_Education_logo.png" height="24">](https://www.kalasalingam.ac.in/)
 - 🚀 Passionate about Web Development, Microservices & Scalable Architectures
   
 ### 🌐 Connect with Me  

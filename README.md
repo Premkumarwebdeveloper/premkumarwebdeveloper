@@ -19,8 +19,8 @@
 ---
 
 ### 🛠 Tech Stack  
-<img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/000000/tailwind_css.png"/> <img height="50" src="https://img.icons8.com/color/48/redis--v2.png" alt="redis--v2"/> <img width="50" height="50" src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img width="50" height="50"  src="https://img.icons8.com/color/48/000000/html-5.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
+<img width="50" height="50" src="https://img.icons8.com/color/48/000000/tailwind_css.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/redis--v2.png" alt="redis--v2"/> <img width="50" height="50" src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/vite.png" alt="vite"/>  <img width="50" height="50" src="https://img.icons8.com/color/48/redux.png" alt="redux"/>
 
 ---
 

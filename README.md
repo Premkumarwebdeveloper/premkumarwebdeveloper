@@ -3,16 +3,11 @@
 
 <img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
-- 🔭 Here's my [portfolio](https://premkumar-s.web.app/)  
+- 🔭 Here's my [Portfolio](https://premkumar-s.web.app/)  
 - 🌱 Currently learning [<img src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" height="24">](https://remix.run/)
--    Engineeing at [<img src="https://upload.wikimedia.org/wikipedia/en/5/53/Kalasalingam_Academy_of_Research_and_Education_logo.png" height="24">](https://www.kalasalingam.ac.in/)
+- 🎓 Engineeing at [<img src="https://upload.wikimedia.org/wikipedia/en/5/53/Kalasalingam_Academy_of_Research_and_Education_logo.png" height="24">](https://www.kalasalingam.ac.in/)
 - 🚀 Passionate about Web Development, Microservices & Scalable Architectures
 
-- 🔭 Check out my [Portfolio](https://premkumar-s.web.app/)  
-- 🌱 Currently learning [Remix](https://remix.run/) <img src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" height="24">
-- 🎓 Engineering at [Kalasalingam Academy of Research and Education ][<img src="https://upload.wikimedia.org/wikipedia/en/5/53/Kalasalingam_Academy_of_Research_and_Education_logo.png" height="24">](https://www.kalasalingam.ac.in/)
-- 🚀 Passionate about Web Development, Microservices & Scalable Architectures
-  
 ### 🌐 Connect with Me  
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/)  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prem-kumar-s-267a73216/)  [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Premkumarwebdeveloper)  [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/)  
 
@@ -27,5 +22,5 @@
 ---
 
 
-[![Premkumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=premkumarwebdeveloper&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![premkumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=premkumarwebdeveloper&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
